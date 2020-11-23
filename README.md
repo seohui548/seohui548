@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me:seohui548@gmail.com
+- 🌱 I’m currently learning Kotlin, Java, Web
+- 📫 How to reach me: seohui548@gmail.com
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohui548&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seohui548&hide=contribs,prs)
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seohui548&hide=contribs,prs)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seohui548&hide=contribs,prs)
 
