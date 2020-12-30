@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin, Java, Web
 -->
 
-
 - 📫 How to reach me: seohui548@gmail.com
-
 
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohui548&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
