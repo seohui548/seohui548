@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin, Java, Web
 -->
 
-
 - 📫 How to reach me: seohui548@gmail.com
 
 
