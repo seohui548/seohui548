@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seohui548&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blueberry&show_icons=true)
 
 
